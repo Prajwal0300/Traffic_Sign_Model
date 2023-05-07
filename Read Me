@@ -16,7 +16,7 @@ General Instructions-
 
 Steps to make this particular model better-
 
--Instead of 80/20 make the model 70/20/10 (Train/Validation/Test).
+-Instead of 80/20, make the model 70/20/10 (Train/Validation/Test).
 -Include Validation along with Training and Testing.
 -Predict the F1 Score.
 -Try the same concept with Video Processing in Real Time.
