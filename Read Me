@@ -1,11 +1,11 @@
 Hello!
 In this Machine Learning model we are trying to develop a model that can successufully identify the traffic singn board.
 
-
-General Instructions-
-
-Links - 
+Links(For Reference) - 
 Youtube - https://youtu.be/qahpZkPlTRM
 
 
+General Instructions-
+
+Use Anaconda to develop the model, Create a seperate Environment in the Anaconda and install Jupyter Notebook and Python Libraries in that Environment.
 Run Traffic_app.py on PyCharm application
