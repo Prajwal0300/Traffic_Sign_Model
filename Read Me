@@ -13,3 +13,12 @@ Use Anaconda to develop the model, Create a seperate Environment in the Anaconda
 Run Traffic_app.py on PyCharm application
 
 To take pic through camera , copy paste the link from Traffic_app.py in the index.html file.
+
+
+
+Steps to make this particular model better-
+
+-Instead of 80/20 make the model 70/20/10 (Train/Validation/Test).
+-Include Validation along with Training and Testing.
+-Predict the F1 Score.
+-Try the same concept with Video Processing in Real Time.
