@@ -8,11 +8,9 @@ Data set taken from Kaggle  website - https://www.kaggle.com/datasets/meowmeowme
 
 General Instructions-
 
-Use Anaconda to develop the model, Create a seperate Environment in the Anaconda and install Jupyter Notebook and Python Libraries in that Environment.
-
-Run Traffic_app.py on PyCharm application
-
-To take pic through camera , copy paste the link from Traffic_app.py in the index.html file.
+-Use Anaconda to develop the model, Create a seperate Environment in the Anaconda and install Jupyter Notebook and Python Libraries in that Environment.
+-Run Traffic_app.py on PyCharm application
+-To take pic through camera , copy paste the link from Traffic_app.py in the index.html file.
 
 
 
