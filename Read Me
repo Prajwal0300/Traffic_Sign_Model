@@ -13,6 +13,9 @@ General Instructions-
 -To take pic through camera , copy paste the link from Traffic_app.py in the index.html file.
 
 
+Deployment-
+This model can either be deployed on a website where we have to manually select a pic from Test folder(More Accuracy) or take a screenshot 
+through front camera of the laptop and upload it(Comparatively Less Accuracy).
 
 Steps to make this particular model better-
 
